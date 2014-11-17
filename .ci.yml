@@ -3,4 +3,4 @@ environment:
 build: 
  run: touch meow.txt
 plugins:
-  - archive: meow.txt
+  - artifacts: meow.txt
